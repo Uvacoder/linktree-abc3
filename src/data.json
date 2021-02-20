@@ -1,0 +1,21 @@
+{
+  "description": "Hai selamat datang, berikut adalah semua hal yang saya publikasikan untuk kalian.",
+  "links": [
+    {
+      "title": "Youtube Chanel",
+      "url": "https://www.youtube.com/channel/UCHgJ4TJuZLYXjae7ppNO15A", 
+      "icon": "youtube"
+    },
+    {
+      "title": "Github",
+      "url": "https://www.youtube.com/channel/UCHgJ4TJuZLYXjae7ppNO15A", 
+      "icon": "github"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/misbahul-arifin-90a59814b/", 
+      "icon": "linkedin"
+    }
+  ],
+  "latestVideo": "https://www.youtube.com/embed/483qNTqpi_E"
+}
